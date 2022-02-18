@@ -3,7 +3,7 @@
 	/*----------  
 	Ruta o dominio del servidor  - Server path or domain
 	----------*/
-	const SERVERURL="https://laferiadeldisco.azurewebsites.net/";
+	const SERVERURL="https://laferiadeldisco.azurewebsites.net";
 
 
 	/*----------  
