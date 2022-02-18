@@ -1,7 +1,7 @@
 <?php
 	
 	/*----------  Datos del servidor  ----------*/
-	const SERVER="feriadisc.database.windows.net";
+	const SERVER="f";
 	const DB="sto";
 	const USER="root";
 	const PASS="";
