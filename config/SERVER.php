@@ -1,8 +1,8 @@
 <?php
 	
 	/*----------  Datos del servidor  ----------*/
-	const SERVER="https://laferiadeldisco.azurewebsites.net/";
-	const DB="tienda";
+	const SERVER="feriadisco.database.windows.net";
+	const DB="sto";
 	const USER="root";
 	const PASS="";
 
