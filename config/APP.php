@@ -3,7 +3,7 @@
 	/*----------  
 	Ruta o dominio del servidor  - Server path or domain
 	----------*/
-	const SERVERURL="/lisco";
+	const SERVERURL="http://laferiadeldisco.azurewebsites.net";
 
 
 	/*----------  
