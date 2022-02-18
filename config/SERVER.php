@@ -2,7 +2,7 @@
 	
 	/*----------  Datos del servidor  ----------*/
 	const SERVER="https://laferiadeldisco.azurewebsites.net/";
-	const DB="sto";
+	const DB="tienda";
 	const USER="root";
 	const PASS="";
 
