@@ -1,7 +1,7 @@
 <?php
 	
 	/*----------  Datos del servidor  ----------*/
-	const SERVER="f";
+	const SERVER="https://laferiadeldisco.azurewebsites.net/";
 	const DB="sto";
 	const USER="root";
 	const PASS="";
