@@ -1,7 +1,7 @@
 <div class="banner">
     <div class="banner-body">
         <h2 class="text-uppercase">Bienvenid a <?php echo COMPANY; ?></h2>
-        <p>Contamos con más de 45 años de experiencia en el mercado, ofreciendo instrumentos musicales a toda la región del Caquetá.</p>
+        <p>Contamos con más de  años de experiencia en el mercado, ofreciendo instrumentos musicales a toda la región del Caquetá.</p>
     </div>
 </div>
 
